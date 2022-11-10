@@ -1,0 +1,15 @@
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\bin\Debug\net6.0\Exzampel001.exe
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\bin\Debug\net6.0\Exzampel001.deps.json
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\bin\Debug\net6.0\Exzampel001.runtimeconfig.json
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\bin\Debug\net6.0\Exzampel001.dll
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\bin\Debug\net6.0\Exzampel001.pdb
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.csproj.AssemblyReference.cache
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.AssemblyInfoInputs.cache
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.AssemblyInfo.cs
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.csproj.CoreCompileInputs.cache
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.dll
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\refint\Exzampel001.dll
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.pdb
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\Exzampel001.genruntimeconfig.cache
+C:\Users\golds\Desktop\Geekbrains\09.11.2022\EXZAMPLES\Exzampel001\obj\Debug\net6.0\ref\Exzampel001.dll
